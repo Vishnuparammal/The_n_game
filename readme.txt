@@ -4,6 +4,10 @@ That exact game has been generalized taking it to an extreme level.
 
 Better warm up 'coz this program's gonna beat you.
 
+Open game on terminal using command:
+
+		'python The_n_game.py'
+
 	Rules of the game:
 
 You will be asked 4 numbers in order to create the game. They are:
