@@ -13,10 +13,10 @@ Open game on terminal using command:
 You will be asked 4 numbers in order to create the game. They are:
 minimum, maximum, base and final.
 
-minimum - the least number of 'numbers' you need to go ahead
-maximum - the most number of 'numbers' you are allowed to go upto.
-base - decides the number from which to start the game.
-final - the one who reaches/crosses the final, loses the game.
+* minimum - the least number of 'numbers' you need to go ahead
+* maximum - the most number of 'numbers' you are allowed to go upto.
+* base - decides the number from which to start the game.
+* final - the one who reaches/crosses the final, loses the game.
 
 I'll explain it with an example:
 
