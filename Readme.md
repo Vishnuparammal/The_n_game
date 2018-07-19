@@ -50,6 +50,7 @@ lets say it enters 19
 		19
 		
 and so the game continues
+
 		enter number
 		22		{user input}
 		26		{program input}
